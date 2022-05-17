@@ -25,7 +25,7 @@ We love open source and always try to give back to the community that we have re
 - [Glific](https://github.com/glific)
 
 
-## Hiils dream
+## Hills dream
 
 We become an expert in remote work. Many of our customers are remote, having team distributed in multiple office helps us to practice and remove the challenges our customers can face by being remote. 
 

@@ -20,9 +20,13 @@ Read this [blog](https://coloredcow.com/coloredcow-name-story/) to get the story
 
 We love open source and always try to give back to the community that we have recieved so much from. Check out our open source projects and the projects we contributed to:
 
-- [Portal](https://github.com/ColoredCow/portal)
-- [SesPress](https://github.com/ColoredCow/SesPress)
-- [Glific](https://github.com/glific)
+- [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
+- [Plio](https://github.com/avantifellows?q=plio) - A platform that makes your videos interactive and helps to extract engagement insights
+- [Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
+- [Medha - Student Information System](https://github.com/gitmedha/sis-frontend) - A tool for managing students' education & employment journey for a PAN-India non-profit organization
+- [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
+- [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service
+- [Bootstrap-Boilerplate](https://www.npmjs.com/package/bootstrap-boilerplate) - An NPM package to power-up core BootstrapCSS
 
 
 ## Hills dream

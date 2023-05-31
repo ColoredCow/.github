@@ -18,15 +18,27 @@ Read this [blog](https://coloredcow.com/coloredcow-name-story/) to get the story
 
 ## Open source 
 
-We love open source and always try to give back to the community that we have recieved so much from. Check out our open source projects and the projects we contributed to:
+We love open source and always try to give back to the community that we have recieved so much from. Check out some of our open source work:
 
-- [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
-- [Plio](https://github.com/avantifellows?q=plio) - A platform that makes your videos interactive and helps to extract engagement insights
-- [Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
-- [Medha - Student Information System](https://github.com/gitmedha/sis-frontend) - A tool for managing students' education & employment journey for a PAN-India non-profit organization
+Projects:
+- [Glific](https://github.com/glific/glific-frontend) - Two-way communication platform for non-profits using WhatsApp
+- [Plio](https://github.com/avantifellows?q=plio) - Platform that makes your videos interactive and helps to extract engagement insights
+- [Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke application to manage organizational operations
+- [Kotahi](https://gitlab.coko.foundation/kotahi/kotahi) - A self-hosted manuscript submission system
+- [Ketida](https://gitlab.coko.foundation/ketida/ketida) - Online single source book production platform
+- [RP IVR Analytics](https://github.com/DostEducation/RP_IVR_analytics) - Rapid Pro based IVR analytics system
+- [RP IVR Callback](https://github.com/DostEducation/RP_IVR_callback) - KooKoo based IVR analytics system
+- [Student Information System](https://github.com/gitmedha/sis-frontend) - Web platform to managing education & employment journey for students
+- [Avni](https://github.com/avniproject/avni-webapp) - An Open Community Health System designed to aid several programs to data entry and management
+- [Tehri Telemedicine](https://github.com/ColoredCow/telemedicine-for-tehri) - A Telemedicine Initiative build with Government of Uttarakhand, India
+
+
+Packages:
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
+- [Laravel Audit](https://github.com/ColoredCow/laravel-audit) - A package to capture system activity in a Laravel application
 - [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service
 - [Bootstrap-Boilerplate](https://www.npmjs.com/package/bootstrap-boilerplate) - An NPM package to power-up core BootstrapCSS
+- [Laravel Two-FA](https://github.com/ColoredCow/laravel-twofactorauth) - Package to integrate SMS-based OTPs for two factor authentication in Laravel applications
 
 
 ## Hills dream

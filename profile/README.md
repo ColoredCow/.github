@@ -26,8 +26,7 @@ Projects:
 - [Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke application to manage organizational operations
 - [Kotahi](https://gitlab.coko.foundation/kotahi/kotahi) - A self-hosted manuscript submission system
 - [Ketida](https://gitlab.coko.foundation/ketida/ketida) - Online single source book production platform
-- [RP IVR Analytics](https://github.com/DostEducation/RP_IVR_analytics) - Rapid Pro based IVR analytics system
-- [RP IVR Callback](https://github.com/DostEducation/RP_IVR_callback) - KooKoo based IVR analytics system
+- [RP IVR Analytics](https://github.com/DostEducation/RP_IVR_analytics) - Rapid Pro and KooKoo based IVR analytics system
 - [Student Information System](https://github.com/gitmedha/sis-frontend) - Web platform to managing education & employment journey for students
 - [Avni](https://github.com/avniproject/avni-webapp) - An Open Community Health System designed to aid several programs to data entry and management
 - [Tehri Telemedicine](https://github.com/ColoredCow/telemedicine-for-tehri) - A Telemedicine Initiative build with Government of Uttarakhand, India

@@ -21,15 +21,18 @@ Read this [blog](https://coloredcow.com/coloredcow-name-story/) to get the story
 We love open source and always try to give back to the community that we have recieved so much from. Check out some of our open source work:
 
 Projects:
-- [Glific](https://github.com/glific/glific-frontend) - Two-way communication platform for non-profits using WhatsApp
-- [Plio](https://github.com/avantifellows?q=plio) - Platform that makes your videos interactive and helps to extract engagement insights
-- [Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke application to manage organizational operations
-- [Kotahi](https://gitlab.coko.foundation/kotahi/kotahi) - A self-hosted manuscript submission system
-- [Ketida](https://gitlab.coko.foundation/ketida/ketida) - Online single source book production platform
-- [RP IVR Analytics](https://github.com/DostEducation/RP_IVR_analytics) - Rapid Pro and KooKoo based IVR analytics system
-- [Student Information System](https://github.com/gitmedha/sis-frontend) - Web platform to managing education & employment journey for students
-- [Avni](https://github.com/avniproject/avni-webapp) - An Open Community Health System designed to aid several programs to data entry and management
-- [Tehri Telemedicine](https://github.com/ColoredCow/telemedicine-for-tehri) - A Telemedicine Initiative build with Government of Uttarakhand, India
+| No. | Project Name                                     | Description                                                                                                        | Case Study                                                                                                        |
+|-----|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 1.  | [Glific](https://github.com/glific/glific-frontend)               | Two-way communication platform for non-profits using WhatsApp                                                    | [Link](https://drive.google.com/file/d/1cESeDD8BGpvKwyUmJfMTt6NIt8kZvSqr/view)                                     |
+| 2.  | [Plio](https://github.com/avantifellows?q=plio)                   | Platform that makes your videos interactive and helps to extract engagement insights                               | [Link](https://drive.google.com/file/d/1iQHrTCgEI9FRmemb_AF83l5QkR_H-GOA/view)                                     |
+| 3.  | [Portal](https://github.com/coloredcow/employee-portal)            | A hub-and-spoke application to manage organizational operations                                                  | [Link](https://drive.google.com/file/d/1Sk-KBrCgGug__x2yY3mFHv4k944Pnve8/view)                                     |
+| 4.  | [Kotahi](https://gitlab.coko.foundation/kotahi/kotahi)             | A self-hosted manuscript submission system                                                                        | [Link](https://drive.google.com/file/d/1NHDFNhiRrREKRrwCpx2Gs1tmym5LG1Zh/view)                                                                                                                 |
+| 5.  | [Ketida](https://gitlab.coko.foundation/ketida/ketida)             | Online single source book production platform                                                                     | [Link](https://drive.google.com/file/d/1NHDFNhiRrREKRrwCpx2Gs1tmym5LG1Zh/view)                                                                                                                 |
+| 6.  | [RP IVR Analytics](https://github.com/DostEducation/RP_IVR_analytics) | Rapid Pro and KooKoo based IVR analytics system                                                                  |  [Link](https://drive.google.com/file/d/1OTm-3Ue4y6xtv9CEUZmekWWGedcjWhv5/view?usp=sharing)                                                                                                              |
+| 7.  | [Student Information System](https://github.com/gitmedha/sis-frontend)    | Web platform for managing education & employment journey for students                                            |                                                                                                                  |
+| 8.  | [Avni](https://github.com/avniproject/avni-webapp)                 | An Open Community Health System designed to aid several programs with data entry and management                  | [Link](https://drive.google.com/file/d/1LJkPAHPWXoJ_OkjXFtODKwmrWTBXBU_o/view)                                     |
+| 9.  | [Tehri Telemedicine](https://github.com/ColoredCow/telemedicine-for-tehri) | A Telemedicine Initiative built with the Government of Uttarakhand, India                                       |                                                                                                                  |
+
 
 
 Packages:

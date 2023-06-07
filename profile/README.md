@@ -21,8 +21,8 @@ Read this [blog](https://coloredcow.com/coloredcow-name-story/) to get the story
 We love open source and always try to give back to the community that we have recieved so much from. Check out some of our open source work:
 
 Projects:
-| No. | Project Name                                     | Description                                                                                                        | Case Study                                                                                                        |
-|-----|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| No. | Project | Description | Case Study |
+|----|----|----|----|
 | 1.  | [Glific](https://github.com/glific/glific-frontend)               | Two-way communication platform for non-profits using WhatsApp                                                    | [Link](https://drive.google.com/file/d/1cESeDD8BGpvKwyUmJfMTt6NIt8kZvSqr/view)                                     |
 | 2.  | [Plio](https://github.com/avantifellows?q=plio)                   | Platform that makes your videos interactive and helps to extract engagement insights                               | [Link](https://drive.google.com/file/d/1iQHrTCgEI9FRmemb_AF83l5QkR_H-GOA/view)                                     |
 | 3.  | [Portal](https://github.com/coloredcow/employee-portal)            | A hub-and-spoke application to manage organizational operations                                                  | [Link](https://drive.google.com/file/d/1Sk-KBrCgGug__x2yY3mFHv4k944Pnve8/view)                                     |

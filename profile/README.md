@@ -20,8 +20,8 @@ Read this [blog](https://coloredcow.com/coloredcow-name-story/) to get the story
 
 We love open source and always try to give back to the community that we have recieved so much from. Check out some of our open source work:
 
-Projects:
-| No. | Project | Description | Case Study |
+**Projects:**
+|  | Project | Description | Case Study |
 |----|----|----|----|
 | 1.  | [Glific](https://github.com/glific/glific-frontend)               | Two-way communication platform for non-profits using WhatsApp                                                    | [Link](https://drive.google.com/file/d/1cESeDD8BGpvKwyUmJfMTt6NIt8kZvSqr/view)                                     |
 | 2.  | [Plio](https://github.com/avantifellows?q=plio)                   | Platform that makes your videos interactive and helps to extract engagement insights                               | [Link](https://drive.google.com/file/d/1iQHrTCgEI9FRmemb_AF83l5QkR_H-GOA/view)                                     |
@@ -32,12 +32,14 @@ Projects:
 | 7.  | [Student Information System](https://github.com/gitmedha/sis-frontend)    | Web platform for managing education & employment journey for students                                            |                                                                                                                  |
 | 8.  | [Avni](https://github.com/avniproject/avni-webapp)                 | An Open Community Health System designed to aid several programs with data entry and management                  | [Link](https://drive.google.com/file/d/1LJkPAHPWXoJ_OkjXFtODKwmrWTBXBU_o/view)                                     |
 | 9.  | [Tehri Telemedicine](https://github.com/ColoredCow/telemedicine-for-tehri) | A Telemedicine Initiative built with the Government of Uttarakhand, India                                       |                                                                                                                  |
-| 10.  | [Flask Admin](https://github.com/Gramhal-Foundation/flask_admin) | A lightweight flask package for admin dashboard                                       |                                                                                                                  |
-| 11.  | [Goonj CRM](https://github.com/coloredcow/goonj) | CRM for one of the largest non-profits in India using CiviCRM & WordPress                                      |                                                                                                                  |
+| 10.  | [Goonj CRM](https://github.com/coloredcow/goonj) | CRM for one of the largest non-profits in India using CiviCRM & WordPress                                      |                                                                                                                  |
 
 
 
-Packages:
+
+**Extensions and Packages:**
+- [CiviCRM Razorpay](https://github.com/coloredcow/civirazorpay) - An extension exclusively to support Razorpay payment gateway for CiviCRM installations
+- [Flask Admin](https://github.com/Gramhal-Foundation/flask_admin) - A lightweight flask package for admin dashboard
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
 - [Laravel Audit](https://github.com/ColoredCow/laravel-audit) - A package to capture system activity in a Laravel application
 - [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service

@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/32592458/168741331-8bf05781-1a8d-4a68-b390-444be87086e2.jpg)
 
-`No idea should remain an idea`
+`No idea should remain just an idea`
 
 
 **Our Goal** - To solve meaningful problems and to do this at scale.

@@ -38,6 +38,7 @@ We love open source and always try to give back to the community that we have re
 
 
 **Extensions and Packages:**
+- [Google Chat MCP Server](https://github.com/ColoredCow/gchat-mcp-server) - MCP server connecting Claude AI to Google Chat via OAuth 2.0
 - [CiviCRM Razorpay](https://github.com/coloredcow/civirazorpay) - An extension exclusively to support Razorpay payment gateway for CiviCRM installations
 - [Flask Admin](https://github.com/Gramhal-Foundation/flask_admin) - A lightweight flask package for admin dashboard
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps

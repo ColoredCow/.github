@@ -33,6 +33,7 @@ We love open source and always try to give back to the community that we have re
 | 8.  | [Avni](https://github.com/avniproject/avni-webapp)                 | An Open Community Health System designed to aid several programs with data entry and management                  | [Link](https://drive.google.com/file/d/1LJkPAHPWXoJ_OkjXFtODKwmrWTBXBU_o/view)                                     |
 | 9.  | [Tehri Telemedicine](https://github.com/ColoredCow/telemedicine-for-tehri) | A Telemedicine Initiative built with the Government of Uttarakhand, India                                       |                                                                                                                  |
 | 10.  | [Goonj CRM](https://github.com/coloredcow/goonj) | CRM for one of the largest non-profits in India using CiviCRM & WordPress                                      |                                                                                                                  |
+| 11.  | [Google Chat MCP Server](https://github.com/ColoredCow/gchat-mcp-server) | MCP server connecting Claude AI to Google Chat via OAuth 2.0                                                    |                                                                                                                  |
 
 
 
